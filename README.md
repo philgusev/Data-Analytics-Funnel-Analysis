@@ -1,5 +1,5 @@
 # Data-Analytics-Funnel-Analysis
-In this project I've identified a conversion rate (using Funnels) for a e-commerce shop based on top 3 performing countries by web interactions.
+In this project I've identified a conversion rate (using Funnels) for an e-commerce shop based on top 3 performing countries by web interactions.
 Here are googlesheets with task description, SQL used for the project, charts and outcomes: 
 https://docs.google.com/spreadsheets/d/1yeLuOman-24TrqaMPWnny1laWk0MReqQ/edit?gid=1887694361#gid=1887694361
 Here is the presentation highlighting results and actions based on my findings:
